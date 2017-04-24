@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "53319770723",
+    "firebase_url": "https://chat-8c7ec.firebaseio.com",
+    "project_id": "chat-8c7ec",
+    "storage_bucket": "chat-8c7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53319770723:android:c86aa27b82c6a854",
+        "android_client_info": {
+          "package_name": "com.crocias.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53319770723-4tcbktss52kttn2isg55nh2fjv20eahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSiZVxVooyepLZ-zHEfmyd08gaqCTovHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53319770723:android:1973be05afd4c95c",
+        "android_client_info": {
+          "package_name": "com.crocias.firenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53319770723-4tcbktss52kttn2isg55nh2fjv20eahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSiZVxVooyepLZ-zHEfmyd08gaqCTovHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53319770723:android:310c24b4cc632d15",
+        "android_client_info": {
+          "package_name": "com.crocias.firegroupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53319770723-4tcbktss52kttn2isg55nh2fjv20eahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSiZVxVooyepLZ-zHEfmyd08gaqCTovHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
